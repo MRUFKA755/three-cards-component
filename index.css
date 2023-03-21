@@ -21,7 +21,7 @@ h1 {
     text-transform: uppercase;
     margin-bottom: 25px;
 }
-.container {
+main {
     width: 950px;
     height: 480px;
     display: flex;
