@@ -75,7 +75,7 @@ button {
         padding: 30px 15px;
         padding-bottom: 1000px;
     }
-    .container {
+    main {
         flex-direction: column;
     }
 }
